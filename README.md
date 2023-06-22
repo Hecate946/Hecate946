@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hecate946&show_icons=true&theme=tokyonight)</br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hecate946=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
